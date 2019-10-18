@@ -1,3 +1,5 @@
+# Deprecated. No longer in use.
+
 # Redis stores for ActionPack
 
 __`redis-actionpack`__ provides a session store for __ActionPack__, specifically for __ActionDispatch__. See the main [redis-store readme](https://github.com/redis-store/redis-store) for general guidelines.
